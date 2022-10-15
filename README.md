@@ -6,7 +6,10 @@
   - Data Infrastructure
   - Managerial (Leading a team) things
 
-- 🌱 I’m currently learning [dbt](https://www.getdbt.com/) and doing some problem solving on Leetcode and Hackerrank
+- 🌱 I’m currently learning:
+  - [dbt](https://www.getdbt.com/)
+  - Doing some problem solving on Leetcode and Hackerrank
+  - Exploring and research about Data Architecture
 
 - I am currently participating Hacktoberfest 2022. Join with me in: https://hacktoberfest.com/ !
 
