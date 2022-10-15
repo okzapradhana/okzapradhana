@@ -6,8 +6,8 @@
   - Data Infrastructure
   - Managerial (Leading a team) things
 
-- 🌱 I’m currently learning:
-  - [dbt](https://www.getdbt.com/)
+- 🌱 My recent activities:
+  - Learning [dbt](https://www.getdbt.com/)
   - Doing some problem solving on Leetcode and Hackerrank
   - Exploring and research about Data Architecture
 
