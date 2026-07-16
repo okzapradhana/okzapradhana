@@ -1,17 +1,10 @@
 - 👋 Hi, I’m @okzapradhana
 
 - 👀 I’m interested in
-  - Data Engineering
-  - Data Warehousing
-  - Data Infrastructure
-  - Managerial (Leading a team) things
-
-- 🌱 My recent activities:
-  - Learning [dbt](https://www.getdbt.com/)
-  - Doing some problem solving on Leetcode and Hackerrank
-  - Exploring and research about Data Architecture
-
-- I am currently participating Hacktoberfest 2022. Join with me in: https://hacktoberfest.com/ !
+  - Software and Data Engineering
+  - Data Warehousing & Analytics
+  - Community Leadership
+  - Harness & Loop Engineering
 
 - 📫 How to reach me
   - :link: https://linkedin.com/in/okzapradhana
